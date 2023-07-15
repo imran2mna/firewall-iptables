@@ -1,4 +1,5 @@
-# IPSec
+IPSec
+=====
 
 Source documentation - https://docs.freebsd.org/en/books/handbook/security/#ipsec
 
@@ -8,11 +9,9 @@ Alpine Linux is used as ISP operating system.
 The setup as follows with external IPs:
 
 corporate-router ---------> service-provider <------------  home-lan-router
-
 172.16.5.4                  172.16.5.5,192.168.1.13         192.168.1.12
 
-Internal IPs
-
+Internal IPs:
 10.246.38.1/24                 ()                           10.0.0.5/24
 
 IPs and tunnelling are set be persistent at boot time.
