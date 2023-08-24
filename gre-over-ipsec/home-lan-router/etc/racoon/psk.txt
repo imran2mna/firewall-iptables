@@ -1,0 +1,2 @@
+# corporate gateway entry
+172.16.5.4   0xfa9426d8efdbbb90f6dcfbe9fa0e1088b6ccc532a7a4ebbc829ab179644e1513b02a03b5a4e49f133f021888745ede69ee55ab7a6b6ad5a746e4edf38a3e90a9
